@@ -1,0 +1,24 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.user-card {
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 10px;
+    border: burlywood;
+    display: inline-block;
+    vertical-align: top;
+    min-height: 400px;
+    min-width: 250px;
+}
+
+.user-card p, .user-card ul {
+    padding: 0;
+    margin: 0;
+}
+
+.user-card ul {
+    list-style: none;
+}
+    
