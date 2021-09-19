@@ -1,0 +1,9 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.task {
+    text-decoration: underline;
+    color: rgb(16, 46, 71);
+    margin-bottom: 10px;
+}
