@@ -20,7 +20,8 @@ let total = 0;
 total += getSumOfAttributes("my-attribute");
 total += getSumOfAttributes("data-value");
 
-//alert(total);
+alert(total);
+console.log(`sum data-value and my-attribute is ${total}`);
 
 function getSumOfAttributes(attributeName) {
     let sum = 0;
