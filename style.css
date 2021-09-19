@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.task {
+    text-decoration: underline;
+}
+
+/* 1 task */
+.error {
+    border: 1x solid red;
+    padding: 12px;
+    color: red;
+}
+
+/* 3 task */
+div {
+    background-color: lightblue;
+    padding: 8px;
+    margin: 4px;
+    display: inline-block;
+}
+
+.busy-day {
+    color: darkred;
+    background-color: coral;
+}
