@@ -24,3 +24,6 @@
   Внесите правки в данный код.
   Карточка пользователя, у которого менее 5 друзей (значение размера массива friends в объектах массива users), должна отображаться с красной рамкой толщиной в 2px.
   [link](https://github.com/anastasiya-maximovich/test-DOM/tree/cardsAndFriends)
+  
+ + Tasks with dataset
+ [link](https://github.com/anastasiya-maximovich/test-DOM/tree/dataset)
