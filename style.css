@@ -2,7 +2,9 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .task {
+    display: block;
     text-decoration: underline;
+    margin-top: 10px;
 }
 
 /* 1 task */
@@ -23,4 +25,45 @@ div {
 .busy-day {
     color: darkred;
     background-color: coral;
+}
+
+/* 4task */
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+td, th {
+    padding: 8px;
+}
+
+.attention {
+    background-color: lightcoral;
+    color: white;
+}
+
+/*5 task */
+.user-card {
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 10px;
+    border: burlywood;
+    display: inline-block;
+    vertical-align: top;
+    min-height: 400px;
+    min-width: 250px;
+}
+
+.user-card p,
+.user-card ul {
+    padding: 0;
+    margin: 0;
+}
+
+.user-card ul {
+    list-style: none;
+}
+.user-less {
+    border: 2px solid red;
 }
