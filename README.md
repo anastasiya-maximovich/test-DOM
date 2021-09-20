@@ -28,5 +28,5 @@
  + Tasks with dataset
  [link](https://github.com/anastasiya-maximovich/test-DOM/tree/dataset)
 
- + Tasks with dataset
+ + Tasks with styles by JS
  [link](https://github.com/anastasiya-maximovich/test-DOM/tree/stylesByJs)
